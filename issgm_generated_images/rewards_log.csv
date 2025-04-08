@@ -1,0 +1,61 @@
+timestamp,run_idx,prompt,reward,image_filename
+20250408_022334,1,A green colored rabbit,0.2805303931236267,A green colored rabbit --- reward: 0.2805303931236267 --- seed: 0 .png
+20250408_022428,2,A green colored rabbit,0.2903175354003906,A green colored rabbit --- reward: 0.2903175354003906 --- seed: 1 .png
+20250408_022522,3,A green colored rabbit,0.2785056531429291,A green colored rabbit --- reward: 0.2785056531429291 --- seed: 2 .png
+20250408_022616,4,A green colored rabbit,0.28899064660072327,A green colored rabbit --- reward: 0.28899064660072327 --- seed: 3 .png
+20250408_022709,5,A green colored rabbit,0.2861669957637787,A green colored rabbit --- reward: 0.2861669957637787 --- seed: 4 .png
+20250408_022802,6,A green colored rabbit,0.2844853401184082,A green colored rabbit --- reward: 0.2844853401184082 --- seed: 5 .png
+20250408_022856,7,A green colored rabbit,0.28685468435287476,A green colored rabbit --- reward: 0.28685468435287476 --- seed: 6 .png
+20250408_022949,8,A green colored rabbit,0.26540011167526245,A green colored rabbit --- reward: 0.26540011167526245 --- seed: 7 .png
+20250408_023043,9,A green colored rabbit,0.2976362109184265,A green colored rabbit --- reward: 0.2976362109184265 --- seed: 8 .png
+20250408_023136,10,A green colored rabbit,0.2847728729248047,A green colored rabbit --- reward: 0.2847728729248047 --- seed: 9 .png
+20250408_023232,1,Four wolves in the park,0.29226380586624146,Four wolves in the park --- reward: 0.29226380586624146 --- seed: 0 .png
+20250408_023324,2,Four wolves in the park,0.26613932847976685,Four wolves in the park --- reward: 0.26613932847976685 --- seed: 1 .png
+20250408_023418,3,Four wolves in the park,0.27867212891578674,Four wolves in the park --- reward: 0.27867212891578674 --- seed: 2 .png
+20250408_023511,4,Four wolves in the park,0.28496313095092773,Four wolves in the park --- reward: 0.28496313095092773 --- seed: 3 .png
+20250408_023604,5,Four wolves in the park,0.2968011498451233,Four wolves in the park --- reward: 0.2968011498451233 --- seed: 4 .png
+20250408_023657,6,Four wolves in the park,0.28118282556533813,Four wolves in the park --- reward: 0.28118282556533813 --- seed: 5 .png
+20250408_023750,7,Four wolves in the park,0.29315751791000366,Four wolves in the park --- reward: 0.29315751791000366 --- seed: 6 .png
+20250408_023844,8,Four wolves in the park,0.2879946231842041,Four wolves in the park --- reward: 0.2879946231842041 --- seed: 7 .png
+20250408_023940,9,Four wolves in the park,0.28567567467689514,Four wolves in the park --- reward: 0.28567567467689514 --- seed: 8 .png
+20250408_024035,10,Four wolves in the park,0.28257429599761963,Four wolves in the park --- reward: 0.28257429599761963 --- seed: 9 .png
+20250408_024132,1,cat and a dog,0.26986539363861084,cat and a dog --- reward: 0.26986539363861084 --- seed: 0 .png
+20250408_024226,2,cat and a dog,0.2788485288619995,cat and a dog --- reward: 0.2788485288619995 --- seed: 1 .png
+20250408_024319,3,cat and a dog,0.2716997265815735,cat and a dog --- reward: 0.2716997265815735 --- seed: 2 .png
+20250408_024415,4,cat and a dog,0.2822254002094269,cat and a dog --- reward: 0.2822254002094269 --- seed: 3 .png
+20250408_024527,5,cat and a dog,0.2784537672996521,cat and a dog --- reward: 0.2784537672996521 --- seed: 4 .png
+20250408_024624,6,cat and a dog,0.2837151288986206,cat and a dog --- reward: 0.2837151288986206 --- seed: 5 .png
+20250408_024720,7,cat and a dog,0.27650511264801025,cat and a dog --- reward: 0.27650511264801025 --- seed: 6 .png
+20250408_024818,8,cat and a dog,0.28474390506744385,cat and a dog --- reward: 0.28474390506744385 --- seed: 7 .png
+20250408_024915,9,cat and a dog,0.27504757046699524,cat and a dog --- reward: 0.27504757046699524 --- seed: 8 .png
+20250408_025013,10,cat and a dog,0.2728598117828369,cat and a dog --- reward: 0.2728598117828369 --- seed: 9 .png
+20250408_025113,1,A dog on the moon,0.2724999785423279,A dog on the moon --- reward: 0.2724999785423279 --- seed: 0 .png
+20250408_025210,2,A dog on the moon,0.27268123626708984,A dog on the moon --- reward: 0.27268123626708984 --- seed: 1 .png
+20250408_025306,3,A dog on the moon,0.2600979208946228,A dog on the moon --- reward: 0.2600979208946228 --- seed: 2 .png
+20250408_025359,4,A dog on the moon,0.2759286165237427,A dog on the moon --- reward: 0.2759286165237427 --- seed: 3 .png
+20250408_025453,5,A dog on the moon,0.26881715655326843,A dog on the moon --- reward: 0.26881715655326843 --- seed: 4 .png
+20250408_025550,6,A dog on the moon,0.2778558135032654,A dog on the moon --- reward: 0.2778558135032654 --- seed: 5 .png
+20250408_025645,7,A dog on the moon,0.26801738142967224,A dog on the moon --- reward: 0.26801738142967224 --- seed: 6 .png
+20250408_025739,8,A dog on the moon,0.2566317021846771,A dog on the moon --- reward: 0.2566317021846771 --- seed: 7 .png
+20250408_025832,9,A dog on the moon,0.2800934910774231,A dog on the moon --- reward: 0.2800934910774231 --- seed: 8 .png
+20250408_025925,10,A dog on the moon,0.27151229977607727,A dog on the moon --- reward: 0.27151229977607727 --- seed: 9 .png
+20250408_030021,1,A cat in the style of Van Gogh's Starry Night,0.286517858505249,A cat in the style of Van Gogh's Starry Night --- reward: 0.286517858505249 --- seed: 0 .png
+20250408_030115,2,A cat in the style of Van Gogh's Starry Night,0.29424381256103516,A cat in the style of Van Gogh's Starry Night --- reward: 0.29424381256103516 --- seed: 1 .png
+20250408_030208,3,A cat in the style of Van Gogh's Starry Night,0.2746935486793518,A cat in the style of Van Gogh's Starry Night --- reward: 0.2746935486793518 --- seed: 2 .png
+20250408_030302,4,A cat in the style of Van Gogh's Starry Night,0.30026090145111084,A cat in the style of Van Gogh's Starry Night --- reward: 0.30026090145111084 --- seed: 3 .png
+20250408_030354,5,A cat in the style of Van Gogh's Starry Night,0.29961076378822327,A cat in the style of Van Gogh's Starry Night --- reward: 0.29961076378822327 --- seed: 4 .png
+20250408_030448,6,A cat in the style of Van Gogh's Starry Night,0.2935155928134918,A cat in the style of Van Gogh's Starry Night --- reward: 0.2935155928134918 --- seed: 5 .png
+20250408_030541,7,A cat in the style of Van Gogh's Starry Night,0.28993022441864014,A cat in the style of Van Gogh's Starry Night --- reward: 0.28993022441864014 --- seed: 6 .png
+20250408_030634,8,A cat in the style of Van Gogh's Starry Night,0.273841917514801,A cat in the style of Van Gogh's Starry Night --- reward: 0.273841917514801 --- seed: 7 .png
+20250408_030728,9,A cat in the style of Van Gogh's Starry Night,0.2953784763813019,A cat in the style of Van Gogh's Starry Night --- reward: 0.2953784763813019 --- seed: 8 .png
+20250408_030820,10,A cat in the style of Van Gogh's Starry Night,0.29694664478302,A cat in the style of Van Gogh's Starry Night --- reward: 0.29694664478302 --- seed: 9 .png
+20250408_030916,1,A door that leads to outer space,0.25283512473106384,A door that leads to outer space --- reward: 0.25283512473106384 --- seed: 0 .png
+20250408_031013,2,A door that leads to outer space,0.28049236536026,A door that leads to outer space --- reward: 0.28049236536026 --- seed: 1 .png
+20250408_031108,3,A door that leads to outer space,0.28148025274276733,A door that leads to outer space --- reward: 0.28148025274276733 --- seed: 2 .png
+20250408_031201,4,A door that leads to outer space,0.25643348693847656,A door that leads to outer space --- reward: 0.25643348693847656 --- seed: 3 .png
+20250408_031254,5,A door that leads to outer space,0.27913838624954224,A door that leads to outer space --- reward: 0.27913838624954224 --- seed: 4 .png
+20250408_031347,6,A door that leads to outer space,0.2646760046482086,A door that leads to outer space --- reward: 0.2646760046482086 --- seed: 5 .png
+20250408_031441,7,A door that leads to outer space,0.27155065536499023,A door that leads to outer space --- reward: 0.27155065536499023 --- seed: 6 .png
+20250408_031534,8,A door that leads to outer space,0.2764790654182434,A door that leads to outer space --- reward: 0.2764790654182434 --- seed: 7 .png
+20250408_031626,9,A door that leads to outer space,0.27315497398376465,A door that leads to outer space --- reward: 0.27315497398376465 --- seed: 8 .png
+20250408_031720,10,A door that leads to outer space,0.2631106972694397,A door that leads to outer space --- reward: 0.2631106972694397 --- seed: 9 .png
