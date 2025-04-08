@@ -3,6 +3,7 @@
 
 ## A cat in the style of Van Gogh's Starry Night
 
+<div style="display: flex; flex-wrap: nowrap; gap: 10px">
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20cat%20in%20the%20style%20of%20Van%20Gogh%27s%20Starry%20Night%20---%20reward_%200.286517858505249%20---%20seed_%200%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20cat%20in%20the%20style%20of%20Van%20Gogh%27s%20Starry%20Night%20---%20reward_%200.29424381256103516%20---%20seed_%201%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20cat%20in%20the%20style%20of%20Van%20Gogh%27s%20Starry%20Night%20---%20reward_%200.2746935486793518%20---%20seed_%202%20.png" width="150"/>
@@ -13,11 +14,13 @@
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20cat%20in%20the%20style%20of%20Van%20Gogh%27s%20Starry%20Night%20---%20reward_%200.273841917514801%20---%20seed_%207%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20cat%20in%20the%20style%20of%20Van%20Gogh%27s%20Starry%20Night%20---%20reward_%200.2953784763813019%20---%20seed_%208%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20cat%20in%20the%20style%20of%20Van%20Gogh%27s%20Starry%20Night%20---%20reward_%200.29694664478302%20---%20seed_%209%20.png" width="150"/>
+</div>
 
 ---
 
 ## A dog on the moon
 
+<div style="display: flex; flex-wrap: nowrap; gap: 10px">
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20dog%20on%20the%20moon%20---%20reward_%200.2724999785423279%20---%20seed_%200%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20dog%20on%20the%20moon%20---%20reward_%200.27268123626708984%20---%20seed_%201%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20dog%20on%20the%20moon%20---%20reward_%200.2600979208946228%20---%20seed_%202%20.png" width="150"/>
@@ -28,11 +31,13 @@
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20dog%20on%20the%20moon%20---%20reward_%200.2566317021846771%20---%20seed_%207%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20dog%20on%20the%20moon%20---%20reward_%200.2800934910774231%20---%20seed_%208%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20dog%20on%20the%20moon%20---%20reward_%200.27151229977607727%20---%20seed_%209%20.png" width="150"/>
+</div>
 
 ---
 
 ## A door that leads to outer space
 
+<div style="display: flex; flex-wrap: nowrap; gap: 10px">
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20door%20that%20leads%20to%20outer%20space%20---%20reward_%200.25283512473106384%20---%20seed_%200%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20door%20that%20leads%20to%20outer%20space%20---%20reward_%200.28049236536026%20---%20seed_%201%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20door%20that%20leads%20to%20outer%20space%20---%20reward_%200.28148025274276733%20---%20seed_%202%20.png" width="150"/>
@@ -43,11 +48,13 @@
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20door%20that%20leads%20to%20outer%20space%20---%20reward_%200.2764790654182434%20---%20seed_%207%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20door%20that%20leads%20to%20outer%20space%20---%20reward_%200.27315497398376465%20---%20seed_%208%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20door%20that%20leads%20to%20outer%20space%20---%20reward_%200.2631106972694397%20---%20seed_%209%20.png" width="150"/>
+</div>
 
 ---
 
 ## A green colored rabbit
 
+<div style="display: flex; flex-wrap: nowrap; gap: 10px">
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20green%20colored%20rabbit%20---%20reward_%200.2805303931236267%20---%20seed_%200%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20green%20colored%20rabbit%20---%20reward_%200.2903175354003906%20---%20seed_%201%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20green%20colored%20rabbit%20---%20reward_%200.2785056531429291%20---%20seed_%202%20.png" width="150"/>
@@ -58,11 +65,13 @@
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20green%20colored%20rabbit%20---%20reward_%200.26540011167526245%20---%20seed_%207%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20green%20colored%20rabbit%20---%20reward_%200.2976362109184265%20---%20seed_%208%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/A%20green%20colored%20rabbit%20---%20reward_%200.2847728729248047%20---%20seed_%209%20.png" width="150"/>
+</div>
 
 ---
 
 ## Four wolves in the park
 
+<div style="display: flex; flex-wrap: nowrap; gap: 10px">
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/Four%20wolves%20in%20the%20park%20---%20reward_%200.29226380586624146%20---%20seed_%200%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/Four%20wolves%20in%20the%20park%20---%20reward_%200.26613932847976685%20---%20seed_%201%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/Four%20wolves%20in%20the%20park%20---%20reward_%200.27867212891578674%20---%20seed_%202%20.png" width="150"/>
@@ -73,11 +82,13 @@
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/Four%20wolves%20in%20the%20park%20---%20reward_%200.2879946231842041%20---%20seed_%207%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/Four%20wolves%20in%20the%20park%20---%20reward_%200.28567567467689514%20---%20seed_%208%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/Four%20wolves%20in%20the%20park%20---%20reward_%200.28257429599761963%20---%20seed_%209%20.png" width="150"/>
+</div>
 
 ---
 
 ## cat and a dog
 
+<div style="display: flex; flex-wrap: nowrap; gap: 10px">
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/cat%20and%20a%20dog%20---%20reward_%200.26986539363861084%20---%20seed_%200%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/cat%20and%20a%20dog%20---%20reward_%200.2788485288619995%20---%20seed_%201%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/cat%20and%20a%20dog%20---%20reward_%200.2716997265815735%20---%20seed_%202%20.png" width="150"/>
@@ -88,5 +99,6 @@
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/cat%20and%20a%20dog%20---%20reward_%200.28474390506744385%20---%20seed_%207%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/cat%20and%20a%20dog%20---%20reward_%200.27504757046699524%20---%20seed_%208%20.png" width="150"/>
 <img src="https://raw.githubusercontent.com/anonymous-acc-tmp/anonymous/main/issgm_generated_images/cat%20and%20a%20dog%20---%20reward_%200.2728598117828369%20---%20seed_%209%20.png" width="150"/>
+</div>
 
 ---
